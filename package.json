@@ -12,7 +12,7 @@
   "author": "Alireza Ahmadi Beni",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-session": "^1.15.6",
     "mqtt": "^2.18.2",
     "request": "^2.85.0",
